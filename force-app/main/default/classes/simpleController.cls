@@ -8,5 +8,8 @@ public with sharing class simpleController {
     public integer sub (integer a, integer v){
         return a-v
     }
+    public integer sub1 (integer a1, integer v1){
+        return a1-v1
+    }
 }
 }
