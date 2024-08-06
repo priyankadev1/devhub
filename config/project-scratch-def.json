@@ -1,0 +1,14 @@
+{
+  "orgName": "pdeva scratch org",
+  "edition": "Developer",
+  "features": ["Communities","ServiceCloud","MultiCurrency","PersonAccounts"],
+  "description": "For LEarning Purpose",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
